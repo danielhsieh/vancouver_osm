@@ -1,0 +1,27 @@
+{
+    "id": "7D5A1FB0",
+    "path": "~/vancouver_osm/osm_building_density.R",
+    "project_path": "osm_building_density.R",
+    "type": "r_source",
+    "hash": "1330948943",
+    "contents": "",
+    "dirty": false,
+    "created": 1683162302748.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "112,0",
+        "scrollLine": "104"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1683670711,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1683670711227,
+    "read_only": false,
+    "read_only_alternatives": []
+}

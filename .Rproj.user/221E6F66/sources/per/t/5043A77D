@@ -1,0 +1,27 @@
+{
+    "id": "5043A77D",
+    "path": "~/vancouver_osm/osm_walkability.R",
+    "project_path": "osm_walkability.R",
+    "type": "r_source",
+    "hash": "4117320170",
+    "contents": "",
+    "dirty": false,
+    "created": 1682273683233.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "280,0",
+        "scrollLine": "280"
+    },
+    "folds": "77|44|105|4|\n",
+    "lastKnownWriteTime": 1683670551,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1683670551843,
+    "read_only": false,
+    "read_only_alternatives": []
+}
